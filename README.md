@@ -9,6 +9,7 @@ A script cloned off of ESX_Policejob to add a State Police job.
 - [ESX_Society](https://github.com/FXServer-ESX/fxserver-esx_society)
 - [ESX_Identity](https://github.com/ESX-Org/esx_identity)
 - [ESX_License](https://github.com/ESX-Org/esx_license)
+- [ESX_Phone](https://github.com/ESX-Org/esx_phone)
 
 # Installation
 
