@@ -4,20 +4,24 @@ A script cloned off of ESX_Policejob to add a State Police job.
 
 # Dependencies
 
-1.) ESX_Billing
-2.) ESX_Datastore
-3.) ESX_Society
-4.) ESX_Identity
-5.) ESX_License
+- [ESX_Billing](https://github.com/FXServer-ESX/fxserver-esx_billing)
+- [ESX_Datastore](https://github.com/FXServer-ESX/fxserver-esx_datastore)
+- [ESX_Society](https://github.com/FXServer-ESX/fxserver-esx_society)
+- [ESX_Identity](https://github.com/ESX-Org/esx_identity)
+- [ESX_License](https://github.com/ESX-Org/esx_license)
 
 # Installation
 
-1.) Clone or Download
+- Clone or Download
 
-2.) Place anywhere inside your resource folder
+ Place anywhere inside your resource folder
 
-3.) Add start DKSP to your server config file
+- Add 
+```
+start DKSP
+```
+to your server config file
 
 # Credits
 
-This resource was made possible thank to ESX_Policejob being used as a base. All changes to the script were made by x0Z3ro0x and are NOT an official release of ANY ESX based scripts. Please do not bug the ESX Developers on any bug fixes for this script. Instead post them here and I will make sure to handle it.
+This resource was made possible thanks to [ESX_Policejob](https://github.com/ESX-Org/esx_policejob) being used as a base. All changes to the script were made by x0Z3ro0x and are NOT an official release of ANY ESX based scripts. Please do not bug the ESX Developers on any bug fixes for this script. Instead post them here and I will make sure to handle it.
